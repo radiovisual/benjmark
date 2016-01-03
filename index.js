@@ -1,6 +1,6 @@
 'use strict';
-const chalk = require('chalk');
-const colors = [chalk.cyan, chalk.magenta, chalk.white, chalk.yellow, chalk.red];
+var chalk = require('chalk');
+var colors = [chalk.cyan, chalk.magenta, chalk.white, chalk.yellow, chalk.red];
 
 function Benjmark(opts) {
 	opts = opts || {};
