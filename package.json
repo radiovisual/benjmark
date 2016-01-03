@@ -19,7 +19,16 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "benchmark",
+    "benjmark",
+    "timer",
+    "timing",
+    "clock",
+    "speed",
+    "time",
+    "optimizations",
+    "fast",
+    "slow"
   ],
   "dependencies": {
     "chalk": "^1.1.1"
