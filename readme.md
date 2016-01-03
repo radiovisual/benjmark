@@ -47,7 +47,9 @@ benjmark.end();
 
 The Benjmark class. 
 
-### benjmark.start(label)
+### benjmark.start([label])
+
+#### label
 
 Type: `string`
 
